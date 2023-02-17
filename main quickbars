@@ -1,0 +1,14 @@
+Main:
+{game}&screen=main
+
+Barrack
+{game}&screen=barracks
+
+Stable:
+{game}&screen=stable
+
+recruit:
+{game}&screen=train
+
+Troops overview:
+{game}&screen=place&mode=units
