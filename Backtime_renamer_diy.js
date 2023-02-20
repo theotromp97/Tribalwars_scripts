@@ -16,7 +16,7 @@ function main()
 {
     if(window.location.href.indexOf("subtype=attacks")==-1)
     {
-        window.location.href = window.location.pathname+ "?screen=overview_villages&mode=incomings&mode=incomings&subtype=attacks";
+        window.location.href = window.location.pathname+ "?screen=overview";
         return;
     }
 
